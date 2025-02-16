@@ -1,5 +1,6 @@
 # BankAnalytics
-Bank Loan Analytics Insights Report
+𝐁𝐚𝐧𝐤 𝐋𝐨𝐚𝐧 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐩𝐨𝐫𝐭
+
 Key Metrics:
 Total Loan Amount: ₹733M
 
@@ -107,7 +108,7 @@ FY 2019: ₹427M
 
 FY 2020: ₹64M
 
-Debit and Credit Insights Report
+𝐃𝐞𝐛𝐢𝐭 𝐚𝐧𝐝 𝐂𝐫𝐞𝐝𝐢𝐭 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐩𝐨𝐫𝐭
 Key Metrics:
 Total Credit: ₹127.60 B
 
